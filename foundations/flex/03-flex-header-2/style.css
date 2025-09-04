@@ -54,4 +54,5 @@ ul {
   display: flex;
   margin-right: auto;
   gap: 16px;
+  padding-left: 0;
 }
